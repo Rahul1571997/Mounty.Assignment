@@ -1,0 +1,84 @@
+{
+  "bookings": [
+    {
+      "bookingReference": "199628",
+      "guest": {
+        "name": "Rahul Gupta",
+        "address": "lpu main, phagwara,  india",
+        "phone": "1234567890",
+        "email": "rahul1234@gmail.com",
+        "passportNumber": "PA62828282"
+      },
+      "room": {
+        "roomNumber": "225",
+        "roomType": "Standard",
+        "bedCount": 1,
+        "price": 800
+      },
+      "checkInDate": "2020-04-10",
+      "checkOutDate": "2020-04-14",
+      "paymentMethod": "Debit Card",
+      "state": "checked_out"
+    },
+    {
+      "bookingReference": "199429",
+      "guest": {
+        "name": "ashok kumar",
+        "address": "sitamari bihar,india",
+        "phone": "9896949290",
+        "email": "iamashok@gmail.com",
+        "passportNumber": "PA42423435"
+      },
+      "room": {
+        "roomNumber": "202",
+        "roomType": "Superior",
+        "bedCount": 2,
+        "price": 1200
+      },
+      "checkInDate": "2020-04-20",
+      "checkOutDate": "2020-04-23",
+      "paymentMethod": "Credit Card",
+      "state": "checked_in"
+    },
+    {
+      "bookingReference": "428282",
+      "guest": {
+        "name": "mohit kumar",
+        "address": "laxmi nagar , Delhi",
+        "phone": "9845677870",
+        "email": "mohit.kumar@gmail.com",
+        "passportNumber": "MK10102030"
+      },
+      "room": {
+        "roomNumber": "101",
+        "roomType": "Standard",
+        "bedCount": 1,
+        "price": 900
+      },
+      "checkInDate": "2020-04-24",
+      "checkOutDate": "2020-04-28",
+      "paymentMethod": "Debit Card",
+      "state": "Booked"
+    },
+    {
+      "bookingReference": "412380",
+      "guest": {
+        "name": "Krishan kumar",
+        "address": "Banglore, India",
+        "phone": "9677440480",
+        "email": "krishan637s@gmail.com",
+        "passportNumber": "KK67543380"
+      },
+      "room": {
+        "roomNumber": "230",
+        "roomType": "Superior",
+        "bedCount": 2,
+        "price": 2200
+      },
+      "checkInDate": "2020-05-01",
+      "checkOutDate": "2020-05-03",
+      "paymentMethod": "Credit Card",
+      "state": "booked"
+    }
+  ]
+}
